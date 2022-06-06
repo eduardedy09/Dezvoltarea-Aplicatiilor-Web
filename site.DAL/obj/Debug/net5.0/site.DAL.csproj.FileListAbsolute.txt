@@ -1,0 +1,45 @@
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\site.DAL.deps.json
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.json
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.dev.json
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\site.DAL.dll
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\ref\site.DAL.dll
+C:\Users\david\Desktop\DAW\proiect\site.DAL\bin\Debug\net5.0\site.DAL.pdb
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfo.cs
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.dll
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\ref\site.DAL.dll
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.pdb
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.genruntimeconfig.cache
+C:\Users\david\Desktop\DAW\proiect\site.DAL\obj\Debug\net5.0\site.DAL.csproj.AssemblyReference.cache
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\site.DAL.deps.json
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.json
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.dev.json
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\ref\site.DAL.dll
+D:\Desktop\TechGarage\site.DAL\bin\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.csprojAssemblyReference.cache
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfoInputs.cache
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfo.cs
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\ref\site.DAL.dll
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage\site.DAL\obj\Debug\net5.0\site.DAL.genruntimeconfig.cache
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\site.DAL.deps.json
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.json
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\site.DAL.runtimeconfig.dev.json
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\ref\site.DAL.dll
+D:\Desktop\TechGarage - Copy\site.DAL\bin\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.csprojAssemblyReference.cache
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfoInputs.cache
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.AssemblyInfo.cs
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\ref\site.DAL.dll
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage - Copy\site.DAL\obj\Debug\net5.0\site.DAL.genruntimeconfig.cache

@@ -1,0 +1,54 @@
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.BLL.deps.json
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.json
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.dev.json
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.BLL.dll
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\ref\site.BLL.dll
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.BLL.pdb
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.DAL.dll
+C:\Users\david\Desktop\DAW\proiect\site.BLL\bin\Debug\net5.0\site.DAL.pdb
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfo.cs
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.dll
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\ref\site.BLL.dll
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.pdb
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.genruntimeconfig.cache
+C:\Users\david\Desktop\DAW\proiect\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CopyComplete
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.BLL.deps.json
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.json
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.dev.json
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.BLL.dll
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\ref\site.BLL.dll
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.BLL.pdb
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage\site.BLL\bin\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.csprojAssemblyReference.cache
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfoInputs.cache
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfo.cs
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CopyComplete
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.dll
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\ref\site.BLL.dll
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.pdb
+D:\Desktop\TechGarage\site.BLL\obj\Debug\net5.0\site.BLL.genruntimeconfig.cache
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.BLL.deps.json
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.json
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.BLL.runtimeconfig.dev.json
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.BLL.dll
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\ref\site.BLL.dll
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.BLL.pdb
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.DAL.dll
+D:\Desktop\TechGarage - Copy\site.BLL\bin\Debug\net5.0\site.DAL.pdb
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.csprojAssemblyReference.cache
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfoInputs.cache
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.AssemblyInfo.cs
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.csproj.CopyComplete
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.dll
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\ref\site.BLL.dll
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.pdb
+D:\Desktop\TechGarage - Copy\site.BLL\obj\Debug\net5.0\site.BLL.genruntimeconfig.cache
